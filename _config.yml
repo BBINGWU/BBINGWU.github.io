@@ -7,7 +7,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Bing Wu" # "Your Name / Site Title"
+title                    : "Bing Wu's Homepage" # "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Bing Wu"
 description              : &description "personal description"
@@ -17,21 +17,21 @@ repository               : "bbingwu/bbingwu.github.io"
 
 # Site Author
 author:
-  name             : "Alana Wu"
+  name             : "Bing Wu"
   avatar           : "Me.jpg"
-  bio              : "Junior student" #"Your biography for the left-hand sidebar"
+  bio              : "undergraduate" #"Your biography for the left-hand sidebar"
   pronouns         : # example: "she/her"
   location         : "China"
-  orcid            : "http://orcid.org/yourorcidurl"
-  employer         :
-  email            : 
+  # orcid            : "http://orcid.org/yourorcidurl"
+  employer         : 
+  email            : "202000161241@mail.sdu.edu.cn"
   uri              :
 
   # Manuscript repositories
   arxiv            : # "https://arxiv.org/" # Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"         # Update with the correct link to your profile
+  # googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"         # Update with the correct link to your profile
   impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
 
   # Social media
@@ -49,14 +49,14 @@ author:
   lastfm           :
   linkedin         :
   kaggle           : # "kaggleusername"
-  mastodon         : "mastodonhandle"
+  # mastodon         : "mastodonhandle"
   medium           : # "add medium profile url here"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  # twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   wikipedia        :
