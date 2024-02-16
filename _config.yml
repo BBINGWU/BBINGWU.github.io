@@ -7,24 +7,24 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Bing Wu" # "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Bing Wu"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://bbingwu.github.io # https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "bbingwu/bbingwu.github.io"
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  name             : "Alana Wu"
+  avatar           : "Me.jpg"
+  bio              : "Junior student" #"Your biography for the left-hand sidebar"
   pronouns         : # example: "she/her"
-  location         : "Location"
+  location         : "China"
   orcid            : "http://orcid.org/yourorcidurl"
   employer         :
-  email            :  
+  email            : 
   uri              :
 
   # Manuscript repositories
@@ -41,7 +41,7 @@ author:
   facebook         :
   flickr           :
   foursquare       :
-  github           : "academicpages"
+  github           : "bbingwu" #"academicpages"
   goodreads        :
   google_plus      :
   keybase          :
