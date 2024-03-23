@@ -43,7 +43,7 @@ gpt rephrase by gpt
 
 ... for example, including, involed with, 
 
-
+10天玩转雅思写作，作者唐志云
 
 
 ### 阅读
@@ -124,19 +124,24 @@ story telling: try to describe a film, a concert or even a restaurant that you r
 
 > anyway, i got millions of words to say when people talked about...
 
+[完全不知道的领域](https://www.xiaohongshu.com/explore/62eb4ae000000000160370c9)
+
 
 
 #### P3
 
 > 公式：观点+（例子）+解释+另一种观点（on the other hand,  for another, on the contrary, however）
+(辩证法)[https://www.xiaohongshu.com/explore/62e7a39d000000000e02a6ac]
+(无话可说)[https://www.xiaohongshu.com/explore/62eb4ae000000000160370c9]
 
 > [另一种方法](https://www.xiaohongshu.com/explore/62e7a39d000000000e02a6ac)
+
 
 [可以在这里找some topic key words](https://www.xiaohongshu.com/user/profile/5cfcdc6c000000001800c90f)
 [gpt口语](https://www.xiaohongshu.com/explore/655cf1e80000000033005895)
 
 
-
+> “Love is a choice that is made every day and not just on one fateful day some time ago”
 
 
 ## 安全四大顶会

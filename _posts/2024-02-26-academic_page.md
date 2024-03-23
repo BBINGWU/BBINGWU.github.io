@@ -1,10 +1,18 @@
 ---
-title: '逆向工程'
+title: 'Academic Pages'
 date: 2024-02-26
-permalink: /posts:2024:02:逆向工程
+permalink: /posts:2024:02:Academic Pages
 tag: 
-    - 专业课
+    - io
 ---
+## basic instructions
+
+```
+bundle exec jekyll serve -l
+```
+
+
+
 
 # chap1 
 PE/ELF/
